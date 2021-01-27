@@ -1,0 +1,10 @@
+a.name {
+    width: 100%;
+    display: inline-flex;
+    text-decoration: none;
+    color: inherit;
+    
+    &:hover {
+        text-decoration: underline;
+    }
+}
